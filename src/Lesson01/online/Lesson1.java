@@ -30,6 +30,7 @@ public class Lesson1 {
         return (sum <= 20) && (sum >= 10);
 
     }
+    
     // Номер 3
     public static boolean isPositive(int variable) {
         return variable >= 0;
